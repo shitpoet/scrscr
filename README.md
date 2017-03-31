@@ -9,3 +9,10 @@ The work is in progress.
     scrsrc image.png
 
 scrscr will automatically update given file upon exit.
+
+## Features
+
+* drawing rectangles.
+* three colors: Red, green and blue.
+* stroke / fill mode.
+* undo.
