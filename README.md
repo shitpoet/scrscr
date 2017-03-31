@@ -12,7 +12,7 @@ scrscr will automatically update given file upon exit.
 
 ## Features
 
-* drawing rectangles.
-* three colors: Red, green and blue.
-* stroke / fill mode.
-* undo.
+* drawing rectangles
+* three colors: red, green and blue
+* stroke / fill mode
+* undo
